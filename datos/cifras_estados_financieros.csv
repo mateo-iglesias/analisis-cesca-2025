@@ -1,0 +1,30 @@
+concepto,categoria,valor_2024,valor_2025,unidad,fuente
+efectivo_y_equivalentes,liquidez,30855.6,34194.0,millones_cop,Estado de situación financiera / Nota 5
+equivalentes_cdt,liquidez,12409.9,18811.6,millones_cop,Nota 5
+fondo_liquidez,liquidez,4960.0,5377.4,millones_cop,Nota 5
+inversiones_corto_plazo,liquidez,528.2,9277.5,millones_cop,Estado de situación financiera / Nota 6
+cartera_neta,activo,83639.3,84342.5,millones_cop,Nota 7
+activos_materiales,activo,11364.3,12016.6,millones_cop,Nota 10
+otros_activos,activo,791.1,849.1,millones_cop,"Estado de situación (inversiones LP, intangibles, cuentas por cobrar)"
+activo_total,activo,127178.5,140679.7,millones_cop,Estado de situación financiera
+cartera_bruta_capital,cartera,88115.0,88962.7,millones_cop,Nota 7
+cartera_consumo,cartera,80369.9,81110.7,millones_cop,Nota 7
+cartera_vivienda,cartera,6681.9,7437.8,millones_cop,Nota 7
+cartera_comercial,cartera,740.3,315.2,millones_cop,Nota 7
+cartera_microcredito,cartera,107.1,51.5,millones_cop,Nota 7
+cartera_productivo,cartera,215.7,47.6,millones_cop,Nota 7
+depositos_asociados,pasivo,43284.5,47360.0,millones_cop,Nota 11
+depositos_a_la_vista,pasivo,13232.3,15018.5,millones_cop,Nota 11
+aportes_sociales,patrimonio,68170.6,76544.0,millones_cop,Nota 17
+patrimonio_total,patrimonio,79765.3,89231.6,millones_cop,Estado de situación financiera
+intereses_cartera,resultados,15350.6,14923.3,millones_cop,"Nota 23 (todas las líneas, incluye moratorios)"
+rendimiento_inversiones,resultados,1923.0,2535.9,millones_cop,Nota 23
+margen_neto_intereses,resultados,14128.8,15436.2,millones_cop,Estado de resultados
+gastos_administracion,resultados,8645.6,9735.3,millones_cop,Estado de resultados
+excedente_neto,resultados,2351.2,1861.1,millones_cop,Estado de resultados
+castigos_capital,riesgo,937.9,1042.0,millones_cop,Nota 7
+tasa_promedio_cartera,tasas,19.36,18.53,porcentaje_ea,Notas 23 y 31
+tasa_promedio_cdat,tasas,10.29,8.50,porcentaje_ea,Nota 24
+indicador_cartera_vencida,riesgo,7.82,9.73,porcentaje,Notas 7 y 32
+relacion_solvencia,riesgo,20.77,21.95,porcentaje,Nota 32
+roe,rentabilidad,2.95,2.09,porcentaje,Nota 32

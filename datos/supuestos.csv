@@ -1,0 +1,6 @@
+parametro,minimo,central,maximo,unidad,criterio
+rendimiento_cdt,9.0,9.0,9.0,porcentaje_ea,"Tablas de CDT en Notas 5 y 6 (rango 8,2%-9,75%)"
+perdida_esperada,2.0,2.5,3.0,porcentaje,Castigos y gasto de deterioro de capital 2025 sobre la cartera bruta
+costo_operativo_marginal,1.0,1.5,2.0,porcentaje,Supuesto del autor
+diferencial_neto,4.0,5.0,6.0,puntos_porcentuales,Rango calculado (4.5-6.5 pp) redondeado hacia abajo por prudencia
+cambio_tasa_inversion,-1.0,-1.0,-1.0,puntos_porcentuales,Escenario ilustrativo de baja de tasas de mercado
